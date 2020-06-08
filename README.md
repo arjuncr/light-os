@@ -1,2 +1,1 @@
-# light-os
-linux based os with cli
+source repo for minimal linux os
